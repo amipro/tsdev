@@ -1,0 +1,4 @@
+It is a small application that creates a virual mouse that represents the touchscreen after calibration.
+To compile:
+gcc -o tsdev tsdev.c utils.c -lts
+
